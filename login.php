@@ -32,5 +32,7 @@ if (isset($_SESSION['usuario_id'])) {
     </form>
 
     <p>Não tem conta? <a href="resgistro.php">Cadastre-se aqui.</p>
+
+   
 </body>
 </html>
