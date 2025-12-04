@@ -27,10 +27,12 @@ if (isset($_SESSION['usuario_id'])) {
             <label for="email">E-mail:</label>
             <input type="email" name="email" id="email" required>
         </div>
+        <br>
         <div>
             <label for="senha">Senha:</label>
             <input type="password" name="senha" id="senha" required>
         </div>
+        <br>
         <div>
             <button type="submit">Entrar</button>
         </div>

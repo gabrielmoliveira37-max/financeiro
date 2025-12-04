@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+h1 {
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mensagem {
+    background-color: red;
+    border-radius: 10px;
+    border-color: black;
+}
